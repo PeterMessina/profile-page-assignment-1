@@ -1,0 +1,36 @@
+body {
+	background: maroon;
+	font-size: 18px; 
+	color: white;
+	}
+	
+img{ 
+	border: 5px solid blue;
+	}
+
+h1 {
+	font-style:italic;
+	color:white;
+	font-family: Georgia;
+	}
+p {
+	font-family: times;
+	font-style: italic;
+	}
+
+a {
+	color: blue;
+	font-style: italic;
+	}
+
+a:link  {
+	text-decoration: none;
+	}
+	
+a:hover {
+	text-decoration: underline
+	}
+
+a:visited {
+	color: gray;
+	}
